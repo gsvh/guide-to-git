@@ -1,4 +1,4 @@
-# A Somewhat Comprehensive Guide to Git
+# <a name="A-Somewhat-Comprehensive-Guide-to-Git"/>A Somewhat Comprehensive Guide to Git
 
 ## A Guide to the Guide
 
