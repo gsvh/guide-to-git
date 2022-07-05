@@ -2,7 +2,7 @@
 
 ## A Guide to the Guide
 
-First we will have a look at what Git is, as well as brush over some of its main features and uses. After that we will dive into detailed explanations of how to use each of the most commands. Lastly we'll look at some good practices when using Git to ensure you get the most out of this phenomenal tool.
+First we will have a look at what Git is, as well as brush over some of its main features and uses. After that we will dive into detailed explanations of how to use each of the most useful commands. Lastly we'll look at some good practices when using Git to ensure you get the most out of this phenomenal tool.
 
 Most of this information was curated from the official [Pro Git Book](https://git-scm.com/book) written by Scott Chacon and Ben Straub.
 
