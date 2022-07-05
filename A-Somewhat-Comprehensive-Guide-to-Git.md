@@ -200,7 +200,7 @@ If you want to go back to a previous commit and delete all the data between that
 
 
 
-##Git Good Practices 
+## Git Good Practices 
 
 Now that you know the basics of using Git, it's time to implement some good practices of working with Git.
 
